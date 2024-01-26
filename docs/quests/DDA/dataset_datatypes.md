@@ -1,8 +1,4 @@
-![image](https://github.com/skymined/study_data_analytics/assets/151099176/f7748c21-1e44-49e0-beea-385af9e5ec3a)|No|Variable|Definition|Key|분석가 의견|
-|1|PassengerId|
-|2|Pclass|
-|
-
+### Quest1
 
 
 
@@ -11,6 +7,7 @@
 
 <details>
   <summary>뤼튼 이용 병원 진료 기록 항목 작성</summary>
+  
 |No|Variable|Definition|Key|분석가 의견|
 |-|-|-|-|-|
 |1|환자ID|환자를 식별하는 고유한 ID| | 범주형 |
