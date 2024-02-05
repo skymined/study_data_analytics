@@ -12,4 +12,12 @@
 - pandas 데이터 병합 : [pandas_merges](https://github.com/skymined/study_data_analytics/blob/main/docs/pandas/10_pandas_merges.ipynb)
 
 ## visulaization
-- 
+
+
+## QUEST
+|Type|QUEST|UseTOOL|ETC.|
+|--|--|--|--|
+|DDA|[SpineSurteryList_datetime](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/DDA/SpineSurgeryList_datetime.ipynb)|datetime 분해하기 | |
+|EDA|
+|VISUALIZATIONS|
+
