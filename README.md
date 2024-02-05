@@ -21,5 +21,6 @@
 |DDA|[extract_5Rank](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/DDA/extract_5Rank.ipynb)|상위 5개 뽑기| |
 |EDA|[EDA_LetalCarOfContractType](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/EDAs/EDA_LetalCarOfContractType.ipynb)|query | 제안 : 계약 갱신율 최적화 전략|
 |EDA|[EDA_ShoppingMallDeliveryWithDate](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/EDAs/EDA_ShoppingMallDeliveryWithDate.ipynb) | | 제안 : 주문량 변동성 분석 및 예측
+|EDA|[EDAs_preprocessing_titanic_train](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/EDAs/EDAs_preprocessing_titanic_train.ipynb)| 전처리하기| |
 |VISUALIZATIONS|[multivariate_OrdersDeliveryList](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/visualizations/multivariate_OrdersDeliveryList.ipynb)|query |주어진 조건에 맞는 데이터 찾기|
 
