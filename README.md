@@ -23,4 +23,7 @@
 |EDA|[EDA_ShoppingMallDeliveryWithDate](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/EDAs/EDA_ShoppingMallDeliveryWithDate.ipynb) | | 제안 : 주문량 변동성 분석 및 예측
 |EDA|[EDAs_preprocessing_titanic_train](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/EDAs/EDAs_preprocessing_titanic_train.ipynb)| 전처리하기| |
 |VISUALIZATIONS|[multivariate_OrdersDeliveryList](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/visualizations/multivariate_OrdersDeliveryList.ipynb)|query |주어진 조건에 맞는 데이터 찾기|
+|CDA| [범주형/범주형 케이스](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/CDAs/CDA_categorical_categorical.ipynb) | pivot table, chi2_contingency | 요일(X)dl 가장 인기 있는 과일 카테고리 판매(Y)에 영향을 미칩니까?
+|CDA| [연속형/연속형 케이스](https://github.com/skymined/study_data_analytics/blob/main/docs/quests/CDAs/CDA_categorical_continuous.ipynb) | map, anderson | 고객 충성도 점수(x)가 평균 거래 가치(Y)를 예측합니까?
+
 
